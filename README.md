@@ -1,1 +1,1 @@
-# New-Znanny
+#New Znanny
